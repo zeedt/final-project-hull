@@ -27,6 +27,8 @@ This folder consists of the android application data that was scraped based on c
 
 This folder consists of the code used for cleaning the dataset. It will consist of other code for feature engineering, visualization etc. The cleaned dataset has been saved into two separate files (one for all android apps and the other for all ios apps) and can be found in this folder.
 
+I have handled majority of the cleaning while scraping so I only needed to clean very few columns.
+
 The file name for the cleaned ios application data is `ios-fitness-and-medical-cleaned-data.csv` and the file name for the cleaned android application data is `android-fitness-and-medical-cleaned-data.csv`.
 
 
